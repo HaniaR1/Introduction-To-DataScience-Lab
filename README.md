@@ -11,8 +11,8 @@ Understand how to summarize and visualize data to gain insights
 Learn how to effectively communicate insights using visualizations
 ### Visualization Libraries: 
 Explore the capabilities of popular libraries such as:
--- Matplotlib.pyplot
--- Seaborn
+- Matplotlib.pyplot
+- Seaborn
 ### Graph Types: Understand how to create and interpret various graph types, including:
 * Line plots
 * Scatter plots
