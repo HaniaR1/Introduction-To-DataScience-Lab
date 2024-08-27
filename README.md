@@ -5,8 +5,10 @@ This repository contains a collection of lab work completed during my Introducti
 - Loading and Cleaning Data: Learn how to import and preprocess datasets for analysis
 - Exploratory Data Analysis (EDA): Understand how to summarize and visualize data to gain insights
 # Data Visualization
-- Introduction to Data Visualization: Learn how to effectively communicate insights using visualizations
-- Visualization Libraries: Explore the capabilities of popular libraries such as:
+## Introduction to Data Visualization: 
+Learn how to effectively communicate insights using visualizations
+## Visualization Libraries: 
+Explore the capabilities of popular libraries such as:
 -- Matplotlib.pyplot
 -- Seaborn
 - Graph Types: Understand how to create and interpret various graph types, including:
@@ -20,8 +22,8 @@ This repository contains a collection of lab work completed during my Introducti
 * Pair plots
 * Joint plots
 # Statistical Distributions and Modeling
-_ Kernel Density Distribution: Learn about kernel density estimation and its applications
-_ Other Statistical Distributions: Explore other types of statistical distributions and their uses such as normal and uniform distribution.
+-  Kernel Density Distribution: Learn about kernel density estimation and its applications
+- Other Statistical Distributions: Explore other types of statistical distributions and their uses such as normal and uniform distribution.
 - Linear Regression: Understand how to model continuous outcomes using linear regression
 - Logistic Regression: Learn how to model binary outcomes using logistic regression
 # Machine Learning
